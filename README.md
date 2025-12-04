@@ -49,7 +49,7 @@ Aplikasi visualisasi interaktif untuk memahami **Maximum Clique Problem** menggu
 
 ---
 
-## 🇬🇧 English
+## EN English
 
 ### Key Features
 - **Algorithm Visualization**: See the Bron-Kerbosch algorithm in action finding the maximum clique in real-time.
