@@ -7,7 +7,7 @@ Aplikasi visualisasi interaktif untuk memahami **Maximum Clique Problem** menggu
 
 ---
 
-## 🇮🇩 Bahasa Indonesia (Default)
+## 🇮🇩 Bahasa Indonesia
 
 ### Fitur Utama
 - **Visualisasi Algoritma**: Melihat bagaimana algoritma Bron-Kerbosch bekerja mencari clique terbesar secara real-time.
